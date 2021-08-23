@@ -1,0 +1,6 @@
+Human: What is the current hindrance to the development of India? How can India overcome it?
+AI: India can overcome its poverty by becoming a superpower. It is necessary to lower the average per-capita income in India so that the rich Indians can pay for upgrading the wealth of poor Indians.
+Human: Sounds interesting, any other policies that India can implement, which might lead to further development of the nation?
+AI: There can be direct trade between states, thus leading to development of each state.
+Human: More?
+AI: Lowering tax rates to 1% across the board will make the poor rich and rich poor. This is the only way to give money earned by the rich back to the poor. This can generate more than enough direct income to every citizen in India to afford further development.

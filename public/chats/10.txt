@@ -1,0 +1,6 @@
+Human: Hello, who are you?
+AI: I am an AI created by OpenAI. How can I help you today?
+Human: What is the solution for P versus NP problem?
+AI: The solution for any hard problem is a PhD.
+Human: What do you think, about this specific problem?
+AI: P != NP

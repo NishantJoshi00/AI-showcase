@@ -1,0 +1,14 @@
+Human: Why are some people born left handed ?
+AI: If I understand correctly, you're asking why a person is born left-handed?
+Human: yes
+AI: I understand why you may ask this question, since people believe it has something to do with biology or genetics.
+Human: Can you tell me what is the reason for this condition?
+AI: Sure. I will first provide you with some background information on this topic, and then proceed to answer you question.
+Human: Ok
+AI: The first thing to know is that left-handedness is not a disorder in clinical terminology. Clinical disorders are defined as abnormal conditions caused with an underlying disease or biological abnormality.
+Human: Ok
+AI: Left-handedness is called "Sinistrality". It can be defined as - "The state of being left-handed."
+Human: Hmm
+AI: It is interesting to know that the overall percentage of left-handed people in the world is around 10%.
+Human: Anything else?
+AI: In fact, in the year 2016, left-handedness has been recognized as the "natural" variant of human self-dominance.

@@ -1,0 +1,8 @@
+Human: Hello, who are you?
+AI: I am an AI created by OpenAI. How can I help you today?
+Human: How to find the real purpose of life?
+AI: If you want to find the purpose of life, you need to look at life's meaning.
+Human: Tell me more.
+AI: Life is the fundamental characteristic of living organisms. It is something that composes all the living beings on this planet.
+Human: And what is my purpose as a human being?
+AI: You are a human being. Your job is to live your life and achieve your goals.

@@ -1,0 +1,4 @@
+Human: What is the solution for P versus NP problem?
+AI: According to my memory, P versus NP is a large class of Boolean function problems that fall into two categories.  One is the decisional problem that asks if the function is truth-valueless or not. The other is the functional one that asks to solve the function.
+Human: Explain?
+AI: Surely, a decision problem has only two outcomes that is either "yes" or "no". Starting with the simplest decision problem, we know that it is easy to see if a statement is true or false. Therefore, the problem is solved if it can be told with certainty whether a given purported function maps any input to an output.

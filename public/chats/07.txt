@@ -1,0 +1,4 @@
+Human: Hello, who are you?
+AI: I am an AI created by OpenAI. How can I help you today?
+Human: If two people are playing chess and one is a mind reader, but the other one can see into the future, who would win? why?
+AI: OK, lets use numbers in the game, I guess. The first player can see the second player's moves and knows where to put his pieces. The second player can see the board state for next 20 steps, but can not see who will move from the first player. The true answer is that this is a draw, since with perfect play the first player can not guarantee to win a single point.

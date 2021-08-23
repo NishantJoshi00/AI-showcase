@@ -1,0 +1,52 @@
+.container {
+    min-height: 100vh;
+    padding: 0 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.main {
+    height: 100%;
+    width: 100%;
+}
+
+.title {
+    padding-left: .5em;
+}
+
+.chatSeq {
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    height: 80%;
+    padding: 0 1%;
+}
+.loading {
+    width: 50%;
+}
+
+.hu {
+    border: 1px solid black;
+    padding: .5em 1em;
+    border-radius: 5px;
+    max-width: 80%;
+    width: fit-content;
+    align-self: flex-end;
+    margin-bottom: 1em;
+}
+
+.ai {
+    border: 1px solid black;
+    padding: .5em 1em;
+    border-radius: 5px;
+    max-width: 80%;
+    width: fit-content;
+    /* align-self: flex-end; */
+    margin-bottom: 1em;
+    color: white;
+    background-color: black;
+}

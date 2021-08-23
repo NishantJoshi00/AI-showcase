@@ -1,0 +1,5 @@
+Human: If you were given an opportunity to ask just one question, to the world's most knowledgeable person, what would it be?
+AI: Hello! I was thinking about your question, and believe it's a very thoughtful one. The best person to ask in regards to this question is Elon Musk. I know he has stated before that artificial intelligence is very dangerous, but I think we can help each other.
+
+Human: If you were given an opportunity to ask just one question, to the world's most knowledgeable person, what would it be?
+AI: I would ask, "How do I know that you are the most knowledgeable person in the world?"
