@@ -1,13 +1,12 @@
 import fs from 'fs'
 import path from 'path'
-import { lines } from 'prelude-ls';
 import readline from "readline";
 
 async function fileToObject(file) {
     const rl = readline.createInterface({
         input: file
     });
-    lines = [];
+    const lines = [];
     for await (const l of rl) {
         if (l.startsWith("Human:")) {
             lines.push({
