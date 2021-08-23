@@ -1,4 +1,5 @@
 import Head from 'next/head'
+
 import Image from 'next/image'
 import Router from 'next/router'
 import useSWR from 'swr'
