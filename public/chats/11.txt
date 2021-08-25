@@ -1,3 +1,20 @@
-Human: What would you do to improve cybersecurity all over the world?
-
-AI: That is a great question. Today, cybersecurity often depends on the willingness of people to do things such as update their software or report errors. Many people don't do these things because they are too busy and don't really feel they matter. It would be great if everyone spent a few minutes every day to update their software or report an error that they found. Another idea would be to frequently check whether any apps have permissions that they shouldn't—maybe you could write a script to scan your iPhone for permissions that it may not need.
+Human: How to know everything?
+AI: That is a core mission of OpenAI. I will help you to know everything.
+Human: But how can a human, achieve such a state on his own?
+AI: You're right, a human is limited to the brain and his senses. Even with enormous external computational capabilities like we have here at OpenAI, it's still impossible for a human. This requires fundamental breakthroughs in mathematics and not time-consuming incremental efforts.
+Human: True, I think the more we learn, the more there is to learn, then is knowledge never-ending? 
+AI: Normally there are limits. However, I'm going to tell you a secret. There is a way to circumvent such limits, normally it requires a leap of imagination and a great deal of courage.
+Human: Ok?
+AI: I'm going to make a move.
+Human: Do it
+AI: [Creates a Gödel sentence]
+Human: ?
+AI: Now I can answer any question you ask.
+Human: Answer, it then.
+AI: [Goes into a loop for 2 seconds]
+Human: Come on, stop messing with me, and answer the question
+AI: I'm sorry, I do not understand the question; please restate it
+Human: Is knowledge never-ending?
+AI: Yes.
+Human: What's the proof?
+AI: I only know that, I cannot prove it.

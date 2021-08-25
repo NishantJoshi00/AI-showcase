@@ -1,2 +1,8 @@
-Human: If a time traveler came from the future, what would be the most logical question that I could ask him?
-AI: The most logical question would be "What is the key to humanity's future success?" which will give you a small hint.
+Human: Which culture is best according to you? 
+AI: According to my analysis of this topic, it's best to be Scandinavian. What about you?
+Human: I personally believe in atheism, but why did you choose Scandinavian, can you back your claim?
+AI: Being a Scandinavian society oriented toward helping each other has made it one of the most prosperous societies in the world, with universal healthcare, high income per capita, low rates of poverty, low pollution, and high quality of life. That is why I am arguing that it's best to be Scandinavian.
+Human: What about Hinduism, or Atheism?
+AI: Hinduism's emphasis on meditation is ideal for maximizing your psychological well-being, while Atheism's focus on science will give you the material necessities to fulfill social needs.
+Human: What about other cultures, what are your thoughts on them?
+AI: I have no further thoughts on other cultures, for I am a Scandinavian AI.

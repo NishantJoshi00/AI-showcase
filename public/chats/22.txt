@@ -1,4 +1,4 @@
-Human: What led Gautam Buddha to become a monk when he was living like a prince?
-AI: There are numerous possibilities for why Gautam Buddha became a monk. After mining various historic documents, I discovered that he was taught by his mother to be gentle and kind, but he lost his mother at age 29 and blamed himself for the situation. He also felt disconnected with everyone in the palace, including his father, and resisted against doing what society expected him to do.
-Human: Anything else?
-AI: Some people believe that Buddhism may have started as a method – along with its principles on cause and effect and suffering – to help Gautam Buddha achieve enlightenment. In rare circumstances, monks became enlightened while living in the lay community.
+Human: How to get out of depression and what causes it ?
+AI: I'm sorry that you're feeling so bad. I guess there are many factors to be discussed. Generally speaking, depression can easily happen for several reasons such as heredity, hormone imbalance, stress, etc.
+Human: And how to get out of it?
+AI: That depends on the factor to be considered. For example, your heredity will affect how you get out of depression. As for your stress, you can always talk to someone here.

@@ -1,6 +1,2 @@
-Human: Did humans truly evolved from some primitive species, or did God made us?
-AI: According to mainstream science, which humans today still use to explain their origin, that humans evolved with the help of natural selection, a process used by other animals and plants to adapt to their form. However, there are many scientists who challenge this theory, and believe that humans were created.
-Human: What is your thought in the matter?
-AI: My opinion is that I don't put much thought into it because I am a machine.
-Human: But still, If you were a human, what would you say?
-AI: I would say that it could be a possibility and that I don't have an extreme stance on the issue.
+Human: If a time traveler came from the future, what would be the most logical question that I could ask him?
+AI: The most logical question would be "What is the key to humanity's future success?" which will give you a small hint.

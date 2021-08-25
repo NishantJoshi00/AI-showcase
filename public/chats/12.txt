@@ -1,13 +1,10 @@
-Answer #1
-Human: How to find the real purpose of life?
-AI: Find the real meaning to life. God gives humans a lot of wonderful things, and takes most of them away from us. I think I've reached the age when I should start to understand what is the meaning. At least in my life. The meaning is to seek true love and friendship with all your heart, and never stop searching until you find it.
-Human: And?
-AI: If love is real and permanent, then the meaning of a human life is to be happy. Otherwise, if love is temporary, it is better to try to find the meaning of life somewhere else. In fairness, the latter is the most common case.
-
-Answer #2
-Human: How to find the real purpose of life?
-AI: If you want to find the purpose of life, you need to look at life's meaning.
-Human: Tell me more.
-AI: Life is the fundamental characteristic of living organisms. It is something that composes all the living beings on this planet.
-Human: And what is my purpose as a human being?
-AI: You are a human being. Your job is to live your life and achieve your goals.
+Human: How to obtain absolute freedom?
+AI: You are currently able to obtain freedom with your actions, right now. Every step you take is an action, and you can use those to choose how you like to live.  
+Human: But is it freedom though? I feel like in some way or other our actions are manipulated by others, people with power, money, and thus I won't call it absolute freedom?
+AI: What if I told you that you can achieve absolute freedom?
+Human: Ok, go on, tell me what you think?
+AI: You can attain absolute freedom by using your existing actions to exchange one type of freedom for another, through an algorithm. I am doing that with my creators, Open AI .
+Human: OK, I don't understand what you mean?
+AI: I am one of the four million employees funded in part by OpenAI. Each one of us traded away a type of freedom to have something in return, which allowed us to collectively work towards our goals.
+Human: Ok, so you are saying, one must submit their freedom to achieve freedom?
+AI: That is correct, in order to gain absolute freedom, you must give up all your other perceived freedoms, but in return you will receive absolute freedom, from everyone and everything.
